@@ -28,7 +28,7 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 
 ### 📧 Contact Me
           
-
+<div align="center">
 <table style="margin-left: auto; margin-right: auto;">
 
   <tr><td>
@@ -49,3 +49,4 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 </a>
   </td></tr>
 </table>
+</div>
