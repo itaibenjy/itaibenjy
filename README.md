@@ -30,14 +30,11 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 ---
 
 ### 💻 Projects
-[![YouTubeRepo](YouTubeDownloader.png)](https://github.com/itaibenjy/Youtube-Downloader){width=100 height=100}
-[![RubicksRepo](RubicksCube.png)](https://github.com/itaibenjy/3D-Rubiks-Cube)
 
-<p>
-<a href="https://github.com/itaibenjy/Youtube-Downloader"><img src="YouTubeDownloader.png" width="300px"></a>
+<a href="https://github.com/itaibenjy/Youtube-Downloader"><img align="left" style="padding-right:20px;" src="YouTubeDownloader.png" width="300px"></a>
 
-<a href="https://github.com/itaibenjy/3D-Rubiks-Cube"><img src="RubicksCube.png" width="300px"></a>
-</p>
+<a href="https://github.com/itaibenjy/3D-Rubiks-Cube"><img align="left" style="padding-right:20px;" src="RubicksCube.png" width="300px"></a>
+
 ### 📧 Contact Me
           
 
