@@ -1,6 +1,3 @@
-
-   
-
 # 👨🏻‍💻 Itai Benjamin
 
 **`Software Engineer Student (ORT Braude College of Engineering)`**
@@ -21,8 +18,8 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
           
 <br>
 <br>
@@ -31,13 +28,27 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 
 ### 💻 Projects
 
+
+<div align="center">
 <a href="https://github.com/itaibenjy/Youtube-Downloader"><img align="left" style="padding-right:30px;" src="YouTubeDownloader.png" width="300px"></a>
 
 <a href="https://github.com/itaibenjy/3D-Rubiks-Cube"><img align="left" style="padding-right:30px;" src="RubicksCube.png" width="300px"></a>
+</div>
 
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+   
 ---
 
 ### 📧 Contact Me
@@ -58,3 +69,4 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 </a>
 
 </div>
+   
