@@ -25,6 +25,6 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 ---
 
 ### 📧 Contact
-<a href="linkedin.com/in/itai-benjamin-66696b250">
+<a href="https://www.linkedin.com/in/itai-benjamin-66696b250">
 <img align="center" alt="linkedin" width="20px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
  </a>
