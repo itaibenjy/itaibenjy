@@ -32,7 +32,7 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
           
 
 
-<div align="center">
+<div align="center" display="flex">
 <a href="https://linkedin.com/in/itai-benjamin-66696b250" style="color:black;">
 <img align="center" alt="linkedin" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
  </a>
