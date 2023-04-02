@@ -37,3 +37,11 @@ LinkedIn
 <img align="left" alt="linkedin" width="20px" style="padding:10px;" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" /> 
 itaibenjy@gmail.com
  </a>
+
+ <br>
+
+
+<a href="itai Benjamin Resume.pdf" style="color:black">
+<img align="left" alt="linkedin" width="20px" style="padding:10px;" src="https://www.svgrepo.com/show/281737/curriculum-resume.svg" /> 
+Resume
+ </a>
