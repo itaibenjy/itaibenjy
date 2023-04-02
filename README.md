@@ -41,7 +41,7 @@ itaibenjy@gmail.com
  <br>
 
 
-<a href="itai Benjamin Resume.pdf" style="color:black">
+<a href="Itai Benjamin Resume.pdf" style="color:black">
 <img align="left" alt="linkedin" width="20px" style="padding:10px;" src="https://www.svgrepo.com/show/281737/curriculum-resume.svg" /> 
 Resume
  </a>
