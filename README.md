@@ -27,7 +27,7 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 ---
 
 ### 💻 Projects
-[![YouTubeRepo](YouTubeDownloader.png)](https://github.com/itaibenjy/Youtube-Downloader)
+[![YouTubeRepo](YouTubeRepo.png)](https://github.com/itaibenjy/Youtube-Downloader)
 [![RubicksRepo](RubicksCubeRepo.png)](https://github.com/itaibenjy/3D-Rubiks-Cube)
 
 ### 📧 Contact Me
