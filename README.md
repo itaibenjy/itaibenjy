@@ -1,5 +1,5 @@
 
-# 👨‍💻 Itai Benjamin
+# 👨🏻‍💻 Itai Benjamin
 
 **`Software Engineer Student (ORT Braude College of Engineering)`**
 
@@ -21,3 +21,11 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <br />
+
+---
+
+### 📧 Contact
+<img align="left" alt="linkedin" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
+<!--> href for my linkadin with no color to it</!--> 
+<a href="https://www.linkedin.com/in/itai-benjamin-5b1b1b1b9/"> linkedin.com/in/itai-benjamin-
+66696b250 </a>
