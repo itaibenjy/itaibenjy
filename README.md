@@ -26,22 +26,19 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 
 ---
 
-### 📧 Contact
+### 📧 Contact Me
 <a href="https://linkedin.com/in/itai-benjamin-66696b250" style="color:black;">
-<img align="left" alt="linkedin" width="20px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
-LinkedIn
+<img align="center" alt="linkedin" width="50px" style="padding:auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
  </a>
  <br>
 
 <a href="mailto:itaibenjy@gmail.com" style="color:black;">
-<img align="left" alt="linkedin" width="20px" style="padding:10px;" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" /> 
-itaibenjy@gmail.com
+<img align="center" alt="linkedin" width="50px" style="padding:auto;" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" /> 
  </a>
 
  <br>
 
 
 <a href="Itai Benjamin Resume.pdf" style="color:black">
-<img align="left" alt="linkedin" width="20px" style="padding:10px;" src="https://www.svgrepo.com/show/281737/curriculum-resume.svg" /> 
-Resume
+<img align="center" alt="linkedin" width="50px" style="padding:auto;" src="https://www.svgrepo.com/show/262744/curriculum-vitae-portfolio.svg" /> 
  </a>
