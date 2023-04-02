@@ -1,4 +1,10 @@
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 # 👨🏻‍💻 Itai Benjamin
 
 **`Software Engineer Student (ORT Braude College of Engineering)`**
@@ -28,11 +34,6 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 
 ### 📧 Contact Me
           
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 <div align="center" >
 <table style="margin-left: auto; margin-right: auto;">
