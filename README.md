@@ -28,8 +28,8 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 
 ### 📧 Contact Me
           
-<div align="center" style="width:100%;">
-<table style=" width:100%; margin-left: auto; margin-right: auto;">
+<div align="center" >
+<table style="margin-left: auto; margin-right: auto; border:0px">
 
   <tr><td>
 <a href="https://linkedin.com/in/itai-benjamin-66696b250" style="color:black;">
