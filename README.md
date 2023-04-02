@@ -38,6 +38,8 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 <br>
 <br>
 
+---
+
 ### 📧 Contact Me
           
 
