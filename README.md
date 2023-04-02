@@ -31,8 +31,7 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 
 ### 💻 Projects
 
-<div class="github-card" data-github="itaibenjy/Youtube-Downloader" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<a href="https://github.com/itaibenjy/Youtube-Downloader"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/itaibenjy/Youtube-Downloader.png" width="460px"></a>
 
 ### 📧 Contact Me
           
