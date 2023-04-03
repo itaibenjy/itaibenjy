@@ -7,7 +7,7 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itaibenjy&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itaibenjy)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
