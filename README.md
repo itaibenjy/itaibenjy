@@ -7,12 +7,6 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 
 ---
 
-### 📊 Stats
-![itaibenjys's GitHub stats](https://github-readme-stats.vercel.app/api?username=itaibenjy&show_icons=true&theme=buefy&hide=prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itaibenjy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -36,6 +30,14 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 [![YouTubeRepo](YouTubeRepo.png)](https://github.com/itaibenjy/Youtube-Downloader)
 [![EkrutRepo](EkrutRepo.png)](https://github.com/itaibenjy/Ekrut-Server-Client-Shop)
 [![RubicksRepo](RubicksCubeRepo.png)](https://github.com/itaibenjy/3D-Rubiks-Cube)
+
+--- 
+
+### 📊 Stats
+![itaibenjys's GitHub stats](https://github-readme-stats.vercel.app/api?username=itaibenjy&show_icons=true&theme=buefy&hide=prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itaibenjy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### 📧 Contact Me
           
