@@ -34,7 +34,6 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 --- 
 
 ### 📊 Stats
-![itaibenjys's GitHub stats](https://github-readme-stats.vercel.app/api?username=itaibenjy&include_all_commits=true&show_icons=true&theme=buefy&hide=prs&count_private=true&custom_title=Itai%20Benjamin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itaibenjy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
