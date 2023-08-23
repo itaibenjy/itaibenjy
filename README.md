@@ -52,8 +52,8 @@ As a Software Engineer student, I am dedicated to improving my skills through ha
 
 
 <div align="center" width="200" style="padding:30px;">
-<a href="https://linkedin.com/in/itai-benjamin-66696b250" style="color:black;">[
-<img align="left" alt="linkedin" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> ](## "LinkedIn")
+<a href="https://linkedin.com/in/itai-benjamin-66696b250" style="color:black;">
+<img align="left" alt="linkedin" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
  </a>
 
 <a href="mailto:itaibenjy@gmail.com" style="color:black;">
