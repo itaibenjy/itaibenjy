@@ -2,7 +2,7 @@
 
 **`Software Engineer Student (ORT Braude College of Engineering)`**
 
-As a Software Engineer student, I am dedicated to improving my skills through hands-on learning, solve real-world problems and gain practical experience. I am a well-organized and collaborative team player with strong communication and analytical abilities. With completed courses in Data Structures and Algorithms, Operating Systems, Databases, and more. Achieving an 82 average with higher grades in programming courses, I am confident in my ability to contribute to any team. I aspire to continuously grow as a professional and be a valuable asset to any organization.
+As a soon-to-be Software Engineering graduate, with my degree expected in a month, I am dedicated to enhancing my skills through hands-on learning and solving real-world problems. I am a well-organized and collaborative team player with strong communication and analytical abilities. With a solid foundation in Algorithms, Operating Systems, Databases, AI, Machine Learning, and more, I have achieved an 86 average, with higher grades in programming courses. I am confident in my ability to contribute effectively to any team and am eager to continuously grow as a professional, becoming a valuable asset to any organization.
 
 
 ---
